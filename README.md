@@ -8,3 +8,5 @@ Escena principal: Forest
 
 Inventario se ha cambiado a click derecho.
 Rotación de armas ha cambiado a rueda del mouse.
+Uso de "arma" click izquierdo.
+(Reparando linterna)
